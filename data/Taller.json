@@ -1,0 +1,124 @@
+[
+    {
+        "titulo": "Lenovo ThinkPad X1 Extreme 16'",
+        "descripcion": "Intel Core i9-12900H 2.5GHz / Nvidia GeForce RTX 3080 Ti Laptop / 64GB RAM / 8TB SSD",
+        "procesador": "Intel Core i9-12900H 2.5GHz",
+        "grafica": "Nvidia GeForce RTX 3080 Ti Laptop",
+        "ram": "64GB",
+        "almacenamiento": "8TB SSD",
+        "imagen": "assets/images/1.jpg",
+        "precio": "$1.100.000"
+    },
+    {
+        "titulo": "MSI Titan 18 HX A14VIG 18'",
+        "descripcion": "Intel Core i9-14900HX 2.2GHz / Nvidia GeForce RTX 4090 Laptop / 128GB RAM / 2TB SSD",
+        "procesador": "Intel Core i9-14900HX 2.2GHz",
+        "grafica": "Nvidia GeForce RTX 4090 Laptop",
+        "ram": "128GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/2.jpg",
+        "precio": "$1.120.000"
+    },
+    {
+        "titulo": "Lenovo Legion 9i Gen 9 16'",
+        "descripcion": "Intel Core i9-14900HX 2.2GHz / Nvidia GeForce RTX 4090 Laptop / 64GB RAM / 2TB SSD",
+        "procesador": "Intel Core i9-14900HX 2.2GHz",
+        "grafica": "Nvidia GeForce RTX 4090 Laptop",
+        "ram": "64GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/3.jpg",
+        "precio": "$1.140.000"
+    },
+    {
+        "titulo": "Asus ROG Zephyrus Duo 16 (2023) 16'",
+        "descripcion": "AMD Ryzen 9 7945HX 2.5GHz / Nvidia GeForce RTX 4090 Laptop / 64GB RAM / 2TB SSD",
+        "procesador": "AMD Ryzen 9 7945HX 2.5GHz",
+        "grafica": "Nvidia GeForce RTX 4090 Laptop",
+        "ram": "64GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/4.jpg",
+        "precio": "$2.200.000"
+    },
+    {
+        "titulo": "Asus Zenbook Pro 16X OLED UX7602BZ 16'",
+        "descripcion": "Intel Core i9-13905H 2.6GHz / Nvidia GeForce RTX 4080 Laptop / 16GB RAM / 2TB SSD",
+        "procesador": "Intel Core i9-13905H 2.6GHz",
+        "grafica": "Nvidia GeForce RTX 4080 Laptop",
+        "ram": "16GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/5.jpg",
+        "precio": "$4.140.000"
+    },
+    {
+        "titulo": "Asus ProArt StudioBook 16'",
+        "descripcion": "Intel Core i9-13980HX 2.2GHz / Nvidia GeForce RTX 4060 Laptop / 64GB RAM / 4TB SSD",
+        "procesador": "Intel Core i9-13980HX 2.2GHz",
+        "grafica": "Nvidia GeForce RTX 4060 Laptop",
+        "ram": "64GB",
+        "almacenamiento": "4TB SSD",
+        "imagen": "assets/images/6.jpg",
+        "precio": "$3.140.000"
+    },
+    {
+        "titulo": "Dell Alienware M18 18'",
+        "descripcion": "Intel Core i9-13900HX 2.2GHz / Nvidia GeForce RTX 4090 Laptop / 64GB RAM / 4TB SSD",
+        "procesador": "Intel Core i9-13900HX 2.2GHz",
+        "grafica": "Nvidia GeForce RTX 4090 Laptop",
+        "ram": "64GB",
+        "almacenamiento": "4TB SSD",
+        "imagen": "assets/images/7.jpg",
+        "precio": "$3.200.000"
+    },
+    {
+        "titulo": "Razer Blade 18 (2023) 18'",
+        "descripcion": "Intel Core i9-13900HX 2.2GHz / Nvidia GeForce RTX 4090 Laptop / 64GB RAM / 2TB SSD",
+        "procesador": "Intel Core i9-13900HX 2.2GHz",
+        "grafica": "Nvidia GeForce RTX 4090 Laptop",
+        "ram": "64GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/8.jpg",
+        "precio": "$3.500.000"
+    },
+    {
+        "titulo": "MSI GT77 Titan 12UGS-008 17.3'",
+        "descripcion": "Intel Core i9-12900HX 1.5GHz / Nvidia GeForce RTX 3070 Ti Laptop / 128GB RAM / 2TB SSD",
+        "procesador": "Intel Core i9-12900HX 1.5GHz",
+        "grafica": "Nvidia GeForce RTX 3070 Ti Laptop",
+        "ram": "128GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/9.jpg",
+        "precio": "$1.500.000"
+    },
+    {
+        "titulo": "Samsung Galaxy Book4 Ultra 16'",
+        "descripcion": "Intel Core Ultra 9 185H 2.3GHz / Nvidia GeForce RTX 4070 Laptop / 32GB RAM / 2TB SSD",
+        "procesador": "Intel Core Ultra 9 185H 2.3GHz",
+        "grafica": "Nvidia GeForce RTX 4070 Laptop",
+        "ram": "32GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/10.jpg",
+        "precio": "$1.200.000"
+    },
+    {
+        "titulo": "HP ZBook Studio G10 16'",
+        "descripcion": "Intel Core i7-13700H 2.4GHz / Nvidia GeForce RTX 4070 Laptop / 32GB RAM / 1TB SSD",
+        "procesador": "Intel Core i7-13700H 2.4GHz",
+        "grafica": "Nvidia GeForce RTX 4070 Laptop",
+        "ram": "32GB",
+        "almacenamiento": "1TB SSD",
+        "imagen": "assets/images/11.jpg",
+        "precio": "$1.100.000"
+    },
+    {
+        "titulo": "XMG Pro 16 Studio (2024) 16'",
+        "descripcion": "Intel Core i9-13900HX 2.2GHz / Nvidia GeForce RTX 4090 Laptop / 64GB RAM / 2TB SSD",
+        "procesador": "Intel Core i9-13900HX 2.2GHz",
+        "grafica": "Nvidia GeForce RTX 4090 Laptop",
+        "ram": "64GB",
+        "almacenamiento": "2TB SSD",
+        "imagen": "assets/images/12.jpg",
+        "precio": "$1.200.000"
+    }
+
+    
+]

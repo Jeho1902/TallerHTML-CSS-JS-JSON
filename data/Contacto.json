@@ -1,0 +1,11 @@
+[
+    {
+    "titulo_pagina": "Hyperwear",
+    "datos_tienda": {
+        "nombre": "Tienda de Computadores",
+        "direccion": "Calle 123 # 45-67",
+        "telefono": "1234567",
+        "correo": "tiendacomputadores@mitienda.com"
+        }
+    }
+]
